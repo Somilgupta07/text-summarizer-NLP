@@ -1,0 +1,7 @@
+**pycache**/
+\*.pyc
+.env
+.ipynb_checkpoints/
+venv/
+.venv/
+saved_summary_model/
